@@ -1,40 +1,42 @@
 import java.util.*;
- 
+
 public class Main {
- 
+
   public static void main (String[] args) {
- 
+
     Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
-    int[][] abc = new int[n][3];
-    for (int i = 0; i < n; i++) {
-      abc[i][0] = sc.nextInt();
-      abc[i][1] = sc.nextInt();
-      abc[i][2] = sc.nextInt();
+
+    int t = sc.nextInt();
+    int[] n = new int[t];
+    int[] p = new int[t];
+    int[] m = new int[t];
+    int[] q = new int[t];
+
+    for (int i = 0; i < t; i++) {
+      n[i] = sc.nextInt();
+      for (int j = 0; j < n[i]; j++) {
+        int v = sc.nextInt();
+        if (v % 2 == 0) {
+          p[i]++;
+        }
+      }
+      m[i] = sc.nextInt();
+      for (int j = 0; j < m[i]; j++) {
+        int v = sc.nextInt();
+        if (v % 2 == 0) {
+          q[i]++;
+        }
+      }
     } 
+
     sc.close();
- 
-    int[] answer = new int[n];
- 
-    for (int i = 0; i < n; i++) {
-      if ((abc[i][2] / 2) < abc[i][1]) {
-        answer[i] += abc[i][2] / 2 * 3;
-        abc[i][1] -= abc[i][2] / 2;
-      } else {
-        answer[i] += abc[i][1] * 3;
-        abc[i][1]  = 0;
-      }
-      if ((abc[i][1] / 2) < abc[i][0]) {
-        answer[i] += abc[i][1] / 2 * 3;
-      } else {
-        answer[i] += abc[i][0] * 3;
-      }
+
+    for (int i = 0; i < t; i++) {
+      long a1 = (long) p[i] * (long) q[i];
+      long a2 = (long) (n[i] - p[i]) * (long) (m[i] - q[i]);
+      System.out.println(a1 + a2);
     }
- 
-    for (int i = 0; i < n; i++) {
-      System.out.println(answer[i]);
-    }
- 
+
   }
- 
+
 }
