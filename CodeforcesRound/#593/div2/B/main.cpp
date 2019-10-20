@@ -1,40 +1,30 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+long mod = 1000000000 + 7;
+
+long long big_pow(long long x,long long y)
+{
+
+   long long ans = 1;
+
+   x = x % mod;
+
+   while(y) {
+       if(y % 2 == 1){
+           ans = (ans * x) % mod;
+       }
+       y = y / 2;
+       x = (x * x) % mod;
+   } 
+   return ans;
+}
+
 int main() {
 
-  int l, r;
-  cin >> l >> r;
+  long n, m;
+  cin >> n >> m;
 
-  int answer = -1;
-
-  for (int i = l; i <= r; i++) {
-
-    string s = to_string(i);
-    vector<int> v(10);
-
-    for (int j = 0; j < s.size(); j++) {
-      v[(s.at(j) - '0')]++;
-    }
-
-    int c = 0;
-
-    for (int j = 0; j < 10; j++) {
-      if(1 < v[j]){
-        c = 1;
-        break;
-      }
-    }
-
-    if (c == 0) {
-      answer = i;
-      break;
-    }
-
-  }
-
-  cout << answer << endl;
-
-  return 0;
+  cout << big_pow(big_pow(2, m) - 1, n) << endl;
 
 }
