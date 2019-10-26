@@ -2,7 +2,7 @@
 
 # PROBREMS
 
-##### Difficulty 
+Difficulty が小さい順に並んでいます。
 
 ## 600
 
