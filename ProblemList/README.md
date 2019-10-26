@@ -18,7 +18,7 @@ Difficulty が小さい順に並んでいます。
 | # | Name | AC | Memo |
 | --- | --- | --- | --- |
 | [791A](https://codeforces.com/problemset/problem/791/A) |[Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) |[#405/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23405/A) | |
-| [705A](https://codeforces.com/problemset/problem/705/A) |[Hulk](https://codeforces.com/problemset/problem/705/A) | | |
+| [705A](https://codeforces.com/problemset/problem/705/A) |[Hulk](https://codeforces.com/problemset/problem/705/A) |[#366_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23366_div2/A) | |
 | [785A](https://codeforces.com/problemset/problem/785/A) |[Anton and Prolyhedrons](https://codeforces.com/problemset/problem/785/A) | | |
 | [1154A](https://codeforces.com/problemset/problem/1154/A) |[Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | | |
 | [996A](https://codeforces.com/problemset/problem/996/A) |[Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | | |
