@@ -10,7 +10,7 @@ Difficulty が小さい順に並んでいます。
 
 | # | Name | AC | Memo |
 | --- | --- | --- | --- |
-| [977A](https://codeforces.com/problemset/problem/977/A) | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | | |
+| [977A](https://codeforces.com/problemset/problem/977/A) | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) |[#479_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23479_div3/A) | |
 | [1030A](https://codeforces.com/problemset/problem/1030/A) |[In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | | |
 
 ## 600
@@ -69,7 +69,7 @@ Difficulty が小さい順に並んでいます。
 | [1064A](https://codeforces.com/problemset/problem/1064/A) |[Make a triangle!](https://codeforces.com/problemset/problem/1064/A) | | |
 | [1139A](https://codeforces.com/problemset/problem/1139/A) |[Even Substrings](https://codeforces.com/problemset/problem/1139/A) | | |
 | [1080A](https://codeforces.com/problemset/problem/1080/A) |[Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | | |
-| [1244A](https://codeforces.com/problemset/problem/1244/A) |[Pens and Penclis](https://codeforces.com/problemset/problem/1244/A) |[#592_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/%23592_div2/A)| |
+| [1244A](https://codeforces.com/problemset/problem/1244/A) |[Pens and Penclis](https://codeforces.com/problemset/problem/1244/A) |[#592_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23592_div2/A)| |
 | [984A](https://codeforces.com/problemset/problem/984/A) |[Game](https://codeforces.com/problemset/problem/984/A) | | |
 | [987A](https://codeforces.com/problemset/problem/987/A) |[Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | | |
 | [595A](https://codeforces.com/problemset/problem/595/A) |[Vitaly and Night](https://codeforces.com/problemset/problem/595/A) | | |
