@@ -22,7 +22,7 @@ Difficulty が小さい順に並んでいます。
 | [785A](https://codeforces.com/problemset/problem/785/A) |[Anton and Prolyhedrons](https://codeforces.com/problemset/problem/785/A) |[#404_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23404_div2/A) | |
 | [1154A](https://codeforces.com/problemset/problem/1154/A) |[Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) |[#552_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23552_div3/A) | |
 | [996A](https://codeforces.com/problemset/problem/996/A) |[Hit the Lottery](https://codeforces.com/problemset/problem/996/A) |[#492_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23492_div2/A) | |
-| [1097A](https://codeforces.com/problemset/problem/1097/A) |[Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | | |
+| [1097A](https://codeforces.com/problemset/problem/1097/A) |[Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) |[Hello_2019/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/Hello_2019/A)| |
 | [935A](https://codeforces.com/problemset/problem/935/A) |[Fafa and his Company](https://codeforces.com/problemset/problem/935/A) | | |
 | [959A](https://codeforces.com/problemset/problem/959/A) |[Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) | | |
 | [1186A](https://codeforces.com/problemset/problem/1186/A) |[Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) | | |
