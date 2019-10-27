@@ -26,7 +26,7 @@ Difficulty が小さい順に並んでいます。
 | [935A](https://codeforces.com/problemset/problem/935/A) |[Fafa and his Company](https://codeforces.com/problemset/problem/935/A) |[#465_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23465_div2/A) | |
 | [959A](https://codeforces.com/problemset/problem/959/A) |[Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) |[#473_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23473_div3/A) | |
 | [1186A](https://codeforces.com/problemset/problem/1186/A) |[Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) |[#571_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23571_div2/A) | |
-| [1220A](https://codeforces.com/problemset/problem/1220/A) |[Cards](https://codeforces.com/problemset/problem/1220/A) | | |
+| [1220A](https://codeforces.com/problemset/problem/1220/A) |[Cards](https://codeforces.com/problemset/problem/1220/A) |[#586/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23586/A) | |
 | [1223A](https://codeforces.com/problemset/problem/1223/A) |[CME](https://codeforces.com/problemset/problem/1223/A) | | |
 | [867A](https://codeforces.com/problemset/problem/867/A) |[Between the Offices](https://codeforces.com/problemset/problem/867/A) | | |
 | [1146A](https://codeforces.com/problemset/problem/1146/A) |[Love "A"](https://codeforces.com/problemset/problem/1146/A) | | |
