@@ -38,8 +38,8 @@ AC 欄のリンクは Accept になったコード等を記録したページへ
 
 | # | Name | AC | Memo |
 | --- | --- | --- | --- |
-| [263A](https://codeforces.com/problemset/problem/263/A) |[Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) |[#161_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23161_div2/A) | |
-| [617A](https://codeforces.com/problemset/problem/617/A) |[Elephant](https://codeforces.com/problemset/problem/617/A) | | |
+| [263A](https://codeforces.com/problemset/problem/263/A) |[Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) |[#161_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23161_div2/A) ||
+| [617A](https://codeforces.com/problemset/problem/617/A) |[Elephant](https://codeforces.com/problemset/problem/617/A) |[#340_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23340_div2/A) | |
 | [136A](https://codeforces.com/problemset/problem/136/A) |[Presents](https://codeforces.com/problemset/problem/136/A) | | |
 | [734A](https://codeforces.com/problemset/problem/734/A) |[Anton and Danik](https://codeforces.com/problemset/problem/734/A) | | |
 | [344A](https://codeforces.com/problemset/problem/344/A) |[Magnets](https://codeforces.com/problemset/problem/344/A) | | |
