@@ -13,33 +13,33 @@ AC 欄のリンクは Accept になったコード等を記録したページへ
 
 | # | Name | AC | Memo |
 | --- | --- | --- | --- |
-| [977A](https://codeforces.com/problemset/problem/977/A) | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) |[#479_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23479_div3/A) | |
+| [977A](https://codeforces.com/problemset/problem/977/A) | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) |[#0479_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230479_div3/A) | |
 | [1030A](https://codeforces.com/problemset/problem/1030/A) |[In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) |[Technocup2019-ElimicationRound1/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/Technocup2019-ElimicationRound1/A) | |
 
 ## 600
 
 | # | Name | AC | Memo |
 | --- | --- | --- | --- |
-| [791A](https://codeforces.com/problemset/problem/791/A) |[Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) |[#405/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23405/A) | |
-| [705A](https://codeforces.com/problemset/problem/705/A) |[Hulk](https://codeforces.com/problemset/problem/705/A) |[#366_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23366_div2/A) | |
-| [785A](https://codeforces.com/problemset/problem/785/A) |[Anton and Prolyhedrons](https://codeforces.com/problemset/problem/785/A) |[#404_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23404_div2/A) | |
-| [1154A](https://codeforces.com/problemset/problem/1154/A) |[Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) |[#552_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23552_div3/A) | |
-| [996A](https://codeforces.com/problemset/problem/996/A) |[Hit the Lottery](https://codeforces.com/problemset/problem/996/A) |[#492_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23492_div2/A) | |
+| [791A](https://codeforces.com/problemset/problem/791/A) |[Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) |[#0405/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230405/A) | |
+| [705A](https://codeforces.com/problemset/problem/705/A) |[Hulk](https://codeforces.com/problemset/problem/705/A) |[#0366_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230366_div2/A) | |
+| [785A](https://codeforces.com/problemset/problem/785/A) |[Anton and Prolyhedrons](https://codeforces.com/problemset/problem/785/A) |[#0404_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230404_div2/A) | |
+| [1154A](https://codeforces.com/problemset/problem/1154/A) |[Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) |[#0552_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230552_div3/A) | |
+| [996A](https://codeforces.com/problemset/problem/996/A) |[Hit the Lottery](https://codeforces.com/problemset/problem/996/A) |[#0492_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230492_div2/A) | |
 | [1097A](https://codeforces.com/problemset/problem/1097/A) |[Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) |[Hello_2019/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/Hello_2019/A)| |
-| [935A](https://codeforces.com/problemset/problem/935/A) |[Fafa and his Company](https://codeforces.com/problemset/problem/935/A) |[#465_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23465_div2/A) | |
-| [959A](https://codeforces.com/problemset/problem/959/A) |[Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) |[#473_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23473_div3/A) | |
-| [1186A](https://codeforces.com/problemset/problem/1186/A) |[Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) |[#571_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23571_div2/A) | |
-| [1220A](https://codeforces.com/problemset/problem/1220/A) |[Cards](https://codeforces.com/problemset/problem/1220/A) |[#586/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23586/A) | |
+| [935A](https://codeforces.com/problemset/problem/935/A) |[Fafa and his Company](https://codeforces.com/problemset/problem/935/A) |[#0465_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230465_div2/A) | |
+| [959A](https://codeforces.com/problemset/problem/959/A) |[Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) |[#0473_div3/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230473_div3/A) | |
+| [1186A](https://codeforces.com/problemset/problem/1186/A) |[Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) |[#0571_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230571_div2/A) | |
+| [1220A](https://codeforces.com/problemset/problem/1220/A) |[Cards](https://codeforces.com/problemset/problem/1220/A) |[#0586/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230586/A) | |
 | [1223A](https://codeforces.com/problemset/problem/1223/A) |[CME](https://codeforces.com/problemset/problem/1223/A) |[Technocup2019-ElimicationRound1/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/Technocup2019-ElimicationRound1/A) | |
-| [867A](https://codeforces.com/problemset/problem/867/A) |[Between the Offices](https://codeforces.com/problemset/problem/867/A) |[#437_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23437_div2/A) | |
+| [867A](https://codeforces.com/problemset/problem/867/A) |[Between the Offices](https://codeforces.com/problemset/problem/867/A) |[#0437_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230437_div2/A) | |
 | [1146A](https://codeforces.com/problemset/problem/1146/A) |[Love "A"](https://codeforces.com/problemset/problem/1146/A) |[ForethoughtFutureCup-EliminationRound/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/ForethoughtFutureCup-EliminationRound/A) | |
 
 ## 700
 
 | # | Name | AC | Memo |
 | --- | --- | --- | --- |
-| [263A](https://codeforces.com/problemset/problem/263/A) |[Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) |[#161_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23161_div2/A) ||
-| [617A](https://codeforces.com/problemset/problem/617/A) |[Elephant](https://codeforces.com/problemset/problem/617/A) |[#340_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%23340_div2/A) | |
+| [263A](https://codeforces.com/problemset/problem/263/A) |[Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) |[#0161_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230161_div2/A) ||
+| [617A](https://codeforces.com/problemset/problem/617/A) |[Elephant](https://codeforces.com/problemset/problem/617/A) |[#0340_div2/A](https://github.com/takahironakamori/Codeforces/tree/master/Submissions/%230340_div2/A) | |
 | [136A](https://codeforces.com/problemset/problem/136/A) |[Presents](https://codeforces.com/problemset/problem/136/A) | | |
 | [734A](https://codeforces.com/problemset/problem/734/A) |[Anton and Danik](https://codeforces.com/problemset/problem/734/A) | | |
 | [344A](https://codeforces.com/problemset/problem/344/A) |[Magnets](https://codeforces.com/problemset/problem/344/A) | | |
