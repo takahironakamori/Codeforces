@@ -1,16 +1,18 @@
 ### Technocup 2019 - Elimination Round 1
 
-# A. In Search of an Easy Problem
+# A. CME
 
-  [問題はこちら](https://codeforces.com/problemset/problem/1030/A)
+  [問題はこちら](https://codeforces.com/problemset/problem/1223/A)
   
 - 概要<br>
-  n 人に生徒にコンテストの問題の難易度についてアンケートし、やさしいは、0 難しいは 1 で回答をもらった。<br>
-  1 人でも難しいと答えた問題については、HARD、それ以外の場合は EASY と出力せよ。<br>
+  整数 n が q 回与えられる。<br>
+  n を a + b = c となるにように、a、b、c に分けたい。<br>
+  n にいくつ追加すると、条件を満たすか。
   
 - 発想<br>
-  i についてすべて調べて、1 が 1 つでもあったら HARD を出力する。<br>
-  それ以外の場合は、EASY を出力する。
+  a + b = c を満たす最低のパターンは、1 + 1 = 2 なので、n は最低 4 以上必要。<br>
+  しかも足し算を成立させるには、a + b + c は偶数でなければならない。<br>
+  したがって、4 かつ n 以上で、偶数である最低の値が回答となる。
   
   
 - コード（C++）
@@ -21,23 +23,30 @@
 
   int main() {
 
-    int n;
-    cin >> n;
+    int q;
+    cin >> q;
 
-    string answer = "EASY";
+    for (int i = 0; i < q; i++) {
 
-    for (int i = 0; i < n; i++) {
+      int v;
+      cin >> v;
 
-      int a;
-      cin >> a;
+      int answer = 0;
 
-      if (a == 1){
-        answer = "HARD";
+      bool repeat = true;
+
+      while (repeat) {
+        if (v % 2 == 0 && 4 <= v) {
+          repeat = false;
+        } else {
+          v++;
+          answer++;
+        }
       }
 
-    }
+      cout << answer << endl;
 
-    cout << answer << endl;
+    }
 
   }
   ```
@@ -52,23 +61,31 @@
     public static void main (String[] args) {
 
       Scanner sc = new Scanner(System.in);
-      int n = sc.nextInt();
 
-      String answer = "EASY";
+      int q = sc.nextInt();
 
-      for (int i = 0; i < n; i++) {
+      for (int i = 0; i < q; i++) {
 
-        int a = sc.nextInt();
+        int v = sc.nextInt();
 
-        if (a == 1){
-          answer = "HARD";
+        int answer = 0;
+
+        boolean repeat = true;
+
+        while (repeat) {
+          if (v % 2 == 0 && 4 <= v) {
+            repeat = false;
+          } else {
+            v++;
+            answer++;
+          }
         }
+
+        System.out.println(answer);
 
       }
 
       sc.close();
-
-      System.out.println(answer);
 
     }
 
