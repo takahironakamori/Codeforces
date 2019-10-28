@@ -6,6 +6,6 @@ Codeforcesの過去問練習
 - リアルタイムで参加したコンテストについては、難易度順に関係なく、挑戦した問題の概要や回答に必要な発想をメモしています。
 
 ## 問題一覧（難易度順）
-- [500](https://github.com/takahironakamori/Codeforces/tree/master/ProblemList)
-- [600](https://github.com/takahironakamori/Codeforces/tree/master/ProblemList)
-- [700](https://github.com/takahironakamori/Codeforces/tree/master/ProblemList)
+- [500](https://github.com/takahironakamori/Codeforces/blob/master/ProblemList/500.md)
+- [600](https://github.com/takahironakamori/Codeforces/blob/master/ProblemList/600.md)
+- [700](https://github.com/takahironakamori/Codeforces/blob/master/ProblemList/700.md)
