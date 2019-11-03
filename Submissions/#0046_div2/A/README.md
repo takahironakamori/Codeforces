@@ -1,6 +1,6 @@
 ### Codeforces Beta Round #46 (Div. 2)
 
-# A. Triangular numbers
+# A. Sleuth
 
   [問題はこちら](https://codeforces.com/problemset/problem/49/A)
   
