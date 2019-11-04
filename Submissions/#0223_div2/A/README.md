@@ -90,24 +90,24 @@
 
       while (!que.isEmpty()) {
 
-      int f = que.peekFirst();
-      int b = que.peekLast();
-      int v = 0;
+        int f = que.peekFirst();
+        int b = que.peekLast();
+        int v = 0;
 
-      if (b < f){
-        v = f;
-        que.pollFirst();
-      } else {
-        v = b;
-        que.pollLast();
+        if (b < f){
+          v = f;
+          que.pollFirst();
+        } else {
+          v = b;
+          que.pollLast();
+        }
+        if (current % 2 == 0){
+          first += v;
+        } else {
+          second += v;
+        }
+        current++;
       }
-      if (current % 2 == 0){
-        first += v;
-      } else {
-        second += v;
-      }
-      current++;
-    }
 
       System.out.println(first + " " + second);
 
