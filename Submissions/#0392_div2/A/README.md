@@ -1,4 +1,4 @@
-### Codeforces Round #92 (Div. 2)
+### Codeforces Round #392 (Div. 2)
 
 # A. Holiday Of Equality
 
