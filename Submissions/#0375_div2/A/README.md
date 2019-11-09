@@ -49,6 +49,7 @@
       int x1 = sc.nextInt();
       int x2 = sc.nextInt();
       int x3 = sc.nextInt();
+      sc.close();
 
       int max = Math.max(x1, x2);
       int min = Math.min(x1, x2);
