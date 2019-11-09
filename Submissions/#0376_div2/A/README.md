@@ -1,8 +1,8 @@
-### Codeforces Round #375 (Div. 2)
+### Codeforces Round #376 (Div. 2)
 
-# A. The New Year: Meeting Friends
+# A. Night at the Museum
 
-  [問題はこちら](https://codeforces.com/problemset/problem/723/A)
+  [問題はこちら](https://codeforces.com/problemset/problem/731/A)
   
 - 概要<br>
   一直線上に点が３つ、x1、x2、x3 がある。<br>
@@ -22,16 +22,18 @@
 
   int main() {
 
-    int x1, x2, x3;
-    cin >> x1 >> x2 >> x3;
+    string s;
+    cin >> s;
 
-    int ma = max(x1, x2);
-    int mi = min(x1, x2);
+    int answer = 0;
+    int current = 1;
+    for (int i = 0; i < s.length(); i++) {
+      int next = (int) s[i] - 96;
+      answer += min(abs(current - next), 26 - abs(current - next));
+      current = next;
+    }
 
-    ma = max(ma, x3);
-    mi = min(mi, x3);
-
-    cout << ma - mi << endl;
+    cout << answer << endl;
 
   }
   ```
@@ -46,18 +48,20 @@
     public static void main (String[] args) {
 
       Scanner sc = new Scanner(System.in);
-      int x1 = sc.nextInt();
-      int x2 = sc.nextInt();
-      int x3 = sc.nextInt();
+      String S = sc.next();
       sc.close();
 
-      int max = Math.max(x1, x2);
-      int min = Math.min(x1, x2);
+      char[] s = S.toCharArray();
 
-      max = Math.max(max, x3);
-      min = Math.min(min, x3);
+      int answer = 0;
+      int current = 1;
+      for (int i = 0; i < S.length(); i++) {
+        int next = (int) s[i] - 96;
+        answer += Math.min(Math.abs(current - next), 26 - Math.abs(current - next));
+        current = next;
+      }
 
-      System.out.println(max - min);
+      System.out.println(answer);
 
     }
 
