@@ -3,29 +3,22 @@ using namespace std;
 
 int main() {
 
-  int q;
-  cin >> q;
+  int n;
+  cin >> n;
 
-  for (int i = 0; i < q; i++) {
-    
-    int v;
-    cin >> v;
+  string answer = "EASY";
 
-    int answer = 0;
+  for (int i = 0; i < n; i++) {
 
-    bool repeat = true;
+    int a;
+    cin >> a;
 
-    while (repeat) {
-      if (v % 2 == 0 && 4 <= v) {
-        repeat = false;
-      } else {
-        v++;
-        answer++;
-      }
+    if (a == 1){
+      answer = "HARD";
     }
 
-    cout << answer << endl;
-
   }
+
+  cout << answer << endl;
 
 }

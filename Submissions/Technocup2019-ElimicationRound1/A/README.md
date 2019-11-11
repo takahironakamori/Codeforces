@@ -1,18 +1,16 @@
 ### Technocup 2019 - Elimination Round 1
 
-# A. CME
+# A. In Search of an Easy Problem
 
-  [問題はこちら](https://codeforces.com/problemset/problem/1223/A)
+  [問題はこちら](https://codeforces.com/contest/1030/problem/A)
   
 - 概要<br>
-  整数 n が q 回与えられる。<br>
-  n を a + b = c となるにように、a、b、c に分けたい。<br>
-  n にいくつ追加すると、条件を満たすか。
+  問題について n 人の意見がある。<br>
+  1 人でもはい（ 1 ）と答えている人がいたら HARD と出力し、<br>
+  そうでない場合は、EASY を出力よせ。
   
 - 発想<br>
-  a + b = c を満たす最低のパターンは、1 + 1 = 2 なので、n は最低 4 以上必要。<br>
-  しかも足し算を成立させるには、a + b + c は偶数でなければならない。<br>
-  したがって、4 かつ n 以上で、偶数である最低の値が回答となる。
+  1 があれば HARD を出力し、すべての 0 の場合は EASY を出力する。
   
   
 - コード（C++）
@@ -23,30 +21,23 @@
 
   int main() {
 
-    int q;
-    cin >> q;
+    int n;
+    cin >> n;
 
-    for (int i = 0; i < q; i++) {
+    string answer = "EASY";
 
-      int v;
-      cin >> v;
+    for (int i = 0; i < n; i++) {
 
-      int answer = 0;
+      int a;
+      cin >> a;
 
-      bool repeat = true;
-
-      while (repeat) {
-        if (v % 2 == 0 && 4 <= v) {
-          repeat = false;
-        } else {
-          v++;
-          answer++;
-        }
+      if (a == 1){
+        answer = "HARD";
       }
 
-      cout << answer << endl;
-
     }
+
+    cout << answer << endl;
 
   }
   ```
@@ -61,31 +52,23 @@
     public static void main (String[] args) {
 
       Scanner sc = new Scanner(System.in);
+      int n = sc.nextInt();
 
-      int q = sc.nextInt();
+      String answer = "EASY";
 
-      for (int i = 0; i < q; i++) {
+      for (int i = 0; i < n; i++) {
 
-        int v = sc.nextInt();
+        int a = sc.nextInt();
 
-        int answer = 0;
-
-        boolean repeat = true;
-
-        while (repeat) {
-          if (v % 2 == 0 && 4 <= v) {
-            repeat = false;
-          } else {
-            v++;
-            answer++;
-          }
+        if (a == 1){
+          answer = "HARD";
         }
-
-        System.out.println(answer);
 
       }
 
       sc.close();
+
+      System.out.println(answer);
 
     }
 
