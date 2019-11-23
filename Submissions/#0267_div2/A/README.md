@@ -1,4 +1,4 @@
-### Codeforces Round #27 (Div. 2)
+### Codeforces Round #267 (Div. 2)
 
 # A. George and Accommodation
 
