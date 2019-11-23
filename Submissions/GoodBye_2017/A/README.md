@@ -2,7 +2,7 @@
 
 # A. New Year and Hurry
 
-  [問題はこちら](A. New Year and Counting Cards)
+  [問題はこちら](https://codeforces.com/problemset/problem/908/A)
   
 - 概要<br>
   片面にはアルファベット、もう一方の面には数字が書かれたカードがある。<br>
