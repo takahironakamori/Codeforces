@@ -2,7 +2,7 @@
 
 # A. Find Extra One
 
-  [問題はこちら](https://codeforces.com/problemset/problem/897/A)
+  [問題はこちら](https://codeforces.com/problemset/problem/900/A)
   
 - 概要<br>
   座標上に N 個点ある。<br>
