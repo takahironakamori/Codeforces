@@ -57,44 +57,44 @@
 - コード（Java）
 
   ```java
-import java.util.*;
+  import java.util.*;
 
-public class Main {
+  public class Main {
 
-  public static void main (String[] args) {
+    public static void main (String[] args) {
 
-    Scanner sc = new Scanner(System.in);
+      Scanner sc = new Scanner(System.in);
 
-    int n = sc.nextInt();
+      int n = sc.nextInt();
 
-    for (int i = 0; i < n; i++) {
-    
-      int x = sc.nextInt();
+      for (int i = 0; i < n; i++) {
 
-      boolean flg = false;
+        int x = sc.nextInt();
 
-      for (int j = 0; j < 100 / 3; j++) {
-        for (int k = 0; k < 100 / 7; k++) {
-          if ((3 * j) + (7 * k) == x) {
-            flg = true;
+        boolean flg = false;
+
+        for (int j = 0; j < 100 / 3; j++) {
+          for (int k = 0; k < 100 / 7; k++) {
+            if ((3 * j) + (7 * k) == x) {
+              flg = true;
+            }
+          }
+          if (flg){
+            break;
           }
         }
-        if (flg){
-          break;
+
+        if (flg) {
+          System.out.println("YES");
+        } else {
+          System.out.println("NO");
         }
       }
-    
-      if (flg) {
-        System.out.println("YES");
-      } else {
-        System.out.println("NO");
-      }
+
+      sc.close();
+
     }
 
-    sc.close();
-  
   }
-
-}
   ```
     
