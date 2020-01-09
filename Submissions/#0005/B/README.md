@@ -10,24 +10,28 @@
   奇数の文字列を表示する度に交互に行う。<br>
   <br>
   例：<br>
-  This  is<br>
-  <br>
-  Codeforces<br>
-  Beta<br>
-  Round<br>
-  5<br>
-  <br>
-  ↓<br>
-  <br>
-  ************<br>
-  * This  is *<br>
-  *          *<br>
-  *Codeforces*<br>
-  *   Beta   *<br>
-  *  Round   *<br>
-  *     5    *<br>
-  ************<br>
   
+  ```
+  This  is
+  
+  Codeforces
+  Beta
+  Round
+  5
+  ```
+  
+  ↓<br>
+  
+  ```
+  ************
+  * This  is *
+  *          *
+  *Codeforces*
+  *   Beta   *
+  *  Round   *
+  *     5    *
+  ************
+  ```
   
 - 発想<br>
   文字列を取得するときに文字列の最大文字数を調べておく。<br>
