@@ -1,4 +1,4 @@
-### Codeforces Beta Round #17 (Div 2 Only)
+### Codeforces Beta Round #18 (Div 2 Only)
 
 # C. Stripe
 
